@@ -5,11 +5,13 @@
 🚀 Building real-world web applications
 
 ### 🛠️ Tech Stack
-- HTML, CSS, JavaScript
-- Node.js, Express.js
-- PostgreSQL, MySQL
-- Git, GitHub
-- Render, Netlify
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Mobile Development:** Dart, Flutter, Android Studio
+- **Databases:** SQL, PostgreSQL, MySQL, MongoDB, SQLite
+- **Tools & Platforms:** Git, GitHub, Netlify, Render, phpMyAdmin
+- **Other Skills:** Cybersecurity Fundamentals
 
 ### 🚀 Featured Projects
 
